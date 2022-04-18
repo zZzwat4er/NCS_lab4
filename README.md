@@ -35,11 +35,13 @@ in order to fix in all user input sould be filtered and you it is something stra
 
 ## link to repo:
 
+https://github.com/zZzwat4er/NCS_lab4
+
 ## How to run:
 
 In order to run it one should have docker installed and started.
 
-one runs it with start.sh
-one stops it with stop_and_clean.sh (also makes a cleanup so there is no need to manualy delete image and container)
+one runs it with `start.sh`
+one stops it with `stop_and_clean.sh` (also makes a cleanup so there is no need to manualy delete image and container)
 
 code can be found in `main.js`
